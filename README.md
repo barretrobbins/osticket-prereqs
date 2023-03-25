@@ -43,7 +43,7 @@ The first step was to create a new resource group and VM in Azure. I created a r
 <img src="[https://i.imgur.com/oY6Yx6Z.png](https://i.imgur.com/oY6Yx6Z.png)](https://i.imgur.com/oY6Yx6Z.png)](https://i.imgur.com/oY6Yx6Z.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, I opened VM-osTicket and enabled IIS with CGI using the following steps: open the Control Panel -> click Programs -> click "turn windows features on or off", next find "Internet Information Services", enable it and expand it, -> expand "World Wide Web Services" -> expand "Application Development Features", find CGI and enable it, then click o
 </p>
 <br />
 

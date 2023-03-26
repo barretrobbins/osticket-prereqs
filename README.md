@@ -53,10 +53,8 @@ Next, install PHP Manager for IIS.
 
 Then, install Rewrite Module
 <img src="https://i.imgur.com/sMQryjQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  
 Finally, install PHP 7.3.8
 <img src="https://i.imgur.com/umYHJxg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-</p>
-
 <br />

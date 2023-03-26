@@ -38,8 +38,9 @@ Inside that resource group I created a Windows 10 VM and named it "VM-osTicket".
 <img src="https://i.imgur.com/oY6Yx6Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
 <p>
-Next, I opened VM-osTicket and enabled IIS with CGI using the following steps: open the Control Panel -> click Programs -> click "turn windows features on or off", next find "Internet Information Services", enable it and expand it, -> expand "World Wide Web Services" -> expand "Application Development Features", find CGI and enable it, then click o
+Next, enabled IIS with CGI performing the following steps: open the Control Panel, select run, click Programs, click "turn windows features on or off"; then find "Internet Information Services", select it and expand it, expand "World Wide Web Services", expand "Application Development Features", find CGI and enable it, then click "OK".
 <img src="https://i.imgur.com/h2ESx4C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>

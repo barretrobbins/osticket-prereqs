@@ -49,8 +49,12 @@ Next, I opened VM-osTicket and enabled IIS with CGI using the following steps: o
 
 <p>
 <img src="https://i.imgur.com/2YLUyK1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/UrkcG5N" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/umYHJxg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next, install PHP Manager for IIS.
+Then, install Rewrite Module.
+Finally, install PHP 7.3.8
 </p>
 <br />

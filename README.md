@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create Resource Group in Azure portal
 - Setup a Windows 10 Virutal Machine (VM)
-- Enable Internet Information Services (IIS)
+- Enable Internet Information Services (IIS) with CGI
 - Install MySQL (Setup User name and Password)
 - Install C++ Reader Redisputable
 - Configure permissions and Install osTicket

@@ -24,6 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create Resource Group in Azure portal with a Windows 10 Virutal Machine (VM)
 - Enable Internet Information Services (IIS) with CGI
+- Install PHP, Rewrite Module, and PHP 7.3.8
 - Install MySQL (Setup User name and Password)
 - Install C++ Reader Redisputable
 - Configure permissions and Install osTicket
@@ -51,8 +52,7 @@ Next, install PHP Manager for IIS.
 <img src="https://i.imgur.com/2YLUyK1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Then, install Rewrite Module
-<img src="https://i.imgur.com/sMQryjQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  
+<img src="https://i.imgur.com/sMQryjQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 Finally, install PHP 7.3.8
 <img src="https://i.imgur.com/umYHJxg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

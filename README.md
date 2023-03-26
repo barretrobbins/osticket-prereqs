@@ -54,7 +54,6 @@ Next, I opened VM-osTicket and enabled IIS with CGI using the following steps: o
 </p>
 <p>
 Next, install PHP Manager for IIS.
-Then, install Rewrite Module.
-Finally, install PHP 7.3.8
 </p>
+
 <br />

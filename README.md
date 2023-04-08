@@ -123,6 +123,11 @@ Next, download and Install HeidiSQL.  Make sure the Launch HeidiSQL is checkmark
 </p>
 <br />
 
+<img src="https://i.imgur.com/AiBuuKV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+To create a database, you will need the username and password that was used to install MySQL.  Create a new database by right-clicking on SSS-->New-->Database-->> name your database osTicket and click Ok.
+
 <p>
 <img src="https://i.imgur.com/1M3rVcT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

@@ -61,7 +61,7 @@ Next, login to Remote Desktop and enable IIS with CGI performing the following s
 3 - Install PHP, Rewrite Module, PHP 7.3.8, and VC Redistributal
 <img src="https://i.imgur.com/5m28HN6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-First, install PHP Manager
+First, download the PHP Manager, go to File Folder, and click on Downloads under Quick access; this is where the PHP Manager file will appear.  Then double click the file to open it and begin installation.  Once open, click next, select agree and click next, click next again, and then click close.
 
 <img src="https://i.imgur.com/yklMBP4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 

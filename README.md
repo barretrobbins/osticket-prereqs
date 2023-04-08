@@ -42,11 +42,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://i.imgur.com/YWUi4XM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
-The first step was to create a new resource group and VM in Azure. I created a resource group named "osTicket".
+First step is to create a new resource group and VM in Azure. I created a resource group named "osTicket".  Go to the home page in portal.azure.come, click on Resource Group, and click on create.  Name the Resource Group: osTicket, select the region near your location.  For example: Region: (US) West US 3, then click Review + create, and click create. 
 
 <img src="https://i.imgur.com/oY6Yx6Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
-Inside that resource group I created a Windows 10 VM and named it "VM-osTicket".
+Inside that resource group I created a Windows 10 VM and named it "VM-osTicket".  Go to the home page in portal.azure.com, click on Virtual Machines, click create, and click Azure virtual machine.  Select the recently created "osTicket" for the Resource Group.  Name the virtual machine and select the region.  For example: virtual machine name: VM-osTicket and Region: (US) West US 3.  Now, select the image, for example: Windows 10 Pro, version 21H2 - x64 Gen2. Next, select the size, for example: Standard_E2s_v3 2vcpus, 16 Gib memory.  Then enter a username and password.  Afterwards, check the box at the bottom, click Disks, click Networking, click Review + create, and then click create.
 </p>
 <br />
 

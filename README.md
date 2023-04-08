@@ -30,8 +30,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 4 - Install MySQL (Setup User name and Password)
 
-5 - Install C++ Reader Redisputable
-
 6 - Configure permissions and Install osTicket
 
 <h2>Installation Steps</h2>
@@ -71,7 +69,7 @@ Next, install Rewrite Module
 Then, install PHP 7.3.8 
 
 <img src="https://i.imgur.com/NkKU8fA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Finally, install VC Redistributal
+Finally, install C++ Reader Redisputable
 </p>
 <br />
 
@@ -80,7 +78,7 @@ Finally, install VC Redistributal
 <img src="https://i.imgur.com/Y3HJ5AM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/XxOjNbC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
- Next, install MySQL.  Once downloaded, click next, select standard configuration, click next, create a password then click next, and finally click execute. A database is now installed on the VM, which is used for osTicket.
+Next, install MySQL.  Once downloaded, click next, select standard configuration, click next, create a password then click next, and finally click execute. A database is now installed on the VM, which is used for osTicket.
 </p>
 <br />
   

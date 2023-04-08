@@ -65,12 +65,13 @@ First, download the PHP Manager, go to File Folder, and click on Downloads under
 
 <img src="https://i.imgur.com/yklMBP4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
-Second, download the Rewrite Module, go to File Folder, and click on the Downloads under Quick access to a find the Rewrite Module.  Then double click the file to open it and begin installation.  Once open, check "I accept the terms in the License Agreeement"; click install and then click finish.    
- 
+Second, download the Rewrite Module, go to File Folder, and click on Downloads under Quick access to find the Rewrite Module file.  Then double click the file to open it and begin installation.  Once open, check "I accept the terms in the License Agreeement"; click install and then click finish. 
+
+Afterwards, go to the Windows C: drive to create a new folder; name the folder PHP.  This is important for the next step to be completed correctly.
  
 <img src="https://i.imgur.com/umYHJxg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Then, install PHP 7.3.8 
+Third, download PHP 7.3.8, go to File Folder, and click on Downloads under Quick access to find the PHP 7.3.8 file.  Right-click the file and select Extract All, click Browse, and select the PHP folder in the Windows C:.  Make sure the box is checked that states: Show extracted files when complete.  
 
 <img src="https://i.imgur.com/NkKU8fA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Finally, install C++ Reader Redisputable

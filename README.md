@@ -44,9 +44,10 @@ Inside that resource group I created a Windows 10 VM and named it "VM-osTicket".
 Next, enabled IIS with CGI performing the following steps: open the Control Panel, select run, click Programs, click "turn windows features on or off"; then find "Internet Information Services", select it and expand it, expand "World Wide Web Services", expand "Application Development Features", find CGI and enable it, then click "OK".
 <img src="https://i.imgur.com/h2ESx4C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+<br />
+
 First, install PHP Manager
-<img src="https://i.imgur.com/2YLUyK1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5m28HN6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Next, install Rewrite Module
 <img src="https://i.imgur.com/yklMBP4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 

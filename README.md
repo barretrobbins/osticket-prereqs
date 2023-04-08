@@ -30,7 +30,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 4 - Install MySQL (Setup User name and Password)
 
-6 - Configure permissions and Install osTicket
+5 - Configure permissions and Install osTicket
+
+7- Install HeidiSQL
+
+8- Finish osTicket Install
 
 <h2>Installation Steps</h2>
 
@@ -82,7 +86,7 @@ Next, install MySQL.  Once downloaded, click next, select standard configuration
 </p>
 <br />
 
-5 - Install osTicket
+5 - 5 - Configure permissions and Install osTicket
 <p>
 <img src="https://i.imgur.com/5W0uyAV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -117,6 +121,7 @@ System Settings: Helpdesk Name: First Name (Yours) followed by Help Desk, enter 
 </p>
 <br />
 
+7- Install HeidiSQL
 <p>
 <img src="https://i.imgur.com/fpOivnO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -130,6 +135,7 @@ Next, download and Install HeidiSQL.  Make sure the Launch HeidiSQL is check mar
 <p>
 To create a database, you will need the username and password that was used to install MySQL.  Create a new database by right-clicking on SSS-->New-->Database-->> name your database osTicket and click Ok.
 
+8- Finish osTicket Install
 <p>
 <img src="https://i.imgur.com/1M3rVcT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

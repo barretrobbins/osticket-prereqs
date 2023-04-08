@@ -83,14 +83,6 @@ Next, install MySQL.  Once downloaded, click next, select standard configuration
 <br />
 
 <p>
-<img src="https://i.imgur.com/c7tJVeq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Install osTicket v1.15.8 and enable extensions.
-</p>
-<br />
-
-<p>
 <img src="https://i.imgur.com/zJTDbdW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>

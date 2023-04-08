@@ -74,7 +74,8 @@ Afterwards, go to the Windows C: drive to create a new folder; name the folder P
 Third, download PHP 7.3.8, go to File Folder, and click on Downloads under Quick access to find the PHP 7.3.8 file.  Right-click the file and select Extract All, click Browse, and select the PHP folder in the Windows C:.  Make sure the box is checked that states: Show extracted files when complete.  
 
 <img src="https://i.imgur.com/NkKU8fA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Finally, install C++ Reader Redisputable
+
+Finally, download the file vc_redist. Go to File Folder and click on Downloads under Quick access to find the vc-redist file.  Then double click the file to open it and begin installation.  Once open, make sure to check "I agree to the license terms and conditions, then click install, and click close.   
 </p>
 <br />
 

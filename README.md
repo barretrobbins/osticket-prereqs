@@ -67,7 +67,7 @@ First, download the PHP Manager, go to File Folder, and click on Downloads under
 
 Second, download the Rewrite Module, go to File Folder, and click on Downloads under Quick access to find the Rewrite Module file.  Then double click the file to open it and begin installation.  Once open, check "I accept the terms in the License Agreeement"; click install and then click finish. 
 
-Afterwards, go to the Windows C: drive to create a new folder; name the folder PHP.  This is important for the next step to be completed correctly.
+*Afterwards, go to the Windows C: drive to create a new folder; name the folder PHP.  This is important for the next step to be completed correctly.
  
 <img src="https://i.imgur.com/umYHJxg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -75,7 +75,7 @@ Third, download PHP 7.3.8, go to File Folder, and click on Downloads under Quick
 
 <img src="https://i.imgur.com/NkKU8fA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Finally, download the file vc_redist. Go to File Folder and click on Downloads under Quick access to find the vc-redist file.  Then double click the file to open it and begin installation.  Once open, make sure to check "I agree to the license terms and conditions, then click install, and click close.   
+Finally, download the file vc_redist. Go to File Folder and click on Downloads under Quick access to find the vc-redist file.  Then double click the file to open it and begin installation.  Once open, make sure to check the box "I agree to the license terms and conditions, then click install, and click close.   
 </p>
 <br />
 
@@ -84,7 +84,7 @@ Finally, download the file vc_redist. Go to File Folder and click on Downloads u
 <img src="https://i.imgur.com/Y3HJ5AM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/XxOjNbC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Next, install MySQL.  Once downloaded, click next, select standard configuration, click next, create a password then click next, and finally click execute. A database is now installed on the VM, which is used for osTicket.
+Now, download the MySQL file.  Go to File Folder and  click next on Downloads under Quick access to find the MySQL file.  The double click the file to open it and begin installation.  Once open, make sure to check the box "Launch the MySQL Instance Configuration Wizard" and click finish.  Following, click next, select Standard Configuration, click next, click next, create a password, click next, and finally click execute. A database is now installed on the VM, which is used for osTicket.
 </p>
 <br />
 

@@ -42,7 +42,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://i.imgur.com/YWUi4XM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
-First step is to create a new resource group and VM in Azure. I created a resource group named "osTicket".  Go to the home page in portal.azure.come, click on Resource Group, and click on create.  Name the Resource Group: osTicket, select the region near your location.  For example: Region: (US) West US 3, then click Review + create, and click create. 
+First, create a new resource group and VM in Azure. I created a resource group named "osTicket".  Go to the home page in portal.azure.come, click on Resource Group, and click on create.  Name the Resource Group: osTicket, select the region near your location.  For example: Region: (US) West US 3, then click Review + create, and click create. 
 
 <img src="https://i.imgur.com/oY6Yx6Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  

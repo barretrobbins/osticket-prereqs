@@ -22,15 +22,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create Resource Group in Azure portal with a Windows 10 Virutal Machine (VM)
-- Enable Internet Information Services (IIS) with CGI
-- Install PHP, Rewrite Module, PHP 7.3.8, and VC Redistributal
-- Install MySQL (Setup User name and Password)
-- Install C++ Reader Redisputable
-- Configure permissions and Install osTicket
+1 - Create Resource Group in Azure portal with a Windows 10 Virutal Machine (VM)
+2 - Enable Internet Information Services (IIS) with CGI
+3 - Install PHP, Rewrite Module, PHP 7.3.8, and VC Redistributal
+4 - Install MySQL (Setup User name and Password)
+5 - Install C++ Reader Redisputable
+6 - Configure permissions and Install osTicket
 
 <h2>Installation Steps</h2>
 
+1 - Create Resource Group in Azure portal with a Windows 10 Virutal Machine (VM)
 <p>
 The first step was to create a new resource group and VM in Azure. I created a resource group named "osTicket"
 <img src="https://i.imgur.com/YWUi4XM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -40,12 +41,14 @@ Inside that resource group I created a Windows 10 VM and named it "VM-osTicket".
 </p>
 <br />
 
+2 - Enable Internet Information Services (IIS) with CGI
 <p>
 Next, enabled IIS with CGI performing the following steps: open the Control Panel, select run, click Programs, click "turn windows features on or off"; then find "Internet Information Services", select it and expand it, expand "World Wide Web Services", expand "Application Development Features", find CGI and enable it, then click "OK".
 <img src="https://i.imgur.com/h2ESx4C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+3 - Install PHP, Rewrite Module, PHP 7.3.8, and VC Redistributal
 First, install PHP Manager
 <img src="https://i.imgur.com/5m28HN6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -60,6 +63,7 @@ Finally, install VC Redistributal
 </p>
 <br />
 
+4 - Install MySQL (Setup User name and Password)
 <p>
 Next, install MySQL.  Once downloaded, click next, select standard configuration, click next, create a password then click next, and finally click execute. A database is now installed on the VM which is used for osTicket.
 <img src="https://i.imgur.com/Y3HJ5AM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

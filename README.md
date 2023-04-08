@@ -65,7 +65,7 @@ First, download the PHP Manager, go to File Folder, and click on Downloads under
 
 <img src="https://i.imgur.com/yklMBP4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
-Next, install Rewrite Module  
+Second, download the Rewrite Module, go to File Folder, and click on the Downloads under Quick access to a find the Rewrite Module.  Then double click the file to open it and begin installation.  Once open, check "I accept the terms in the License Agreeement"; click install and then click finish.    
  
  
 <img src="https://i.imgur.com/umYHJxg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

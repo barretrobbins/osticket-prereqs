@@ -22,19 +22,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-1 - Create Resource Group in Azure portal with a Windows 10 Virutal Machine (VM)
+- Step 1 - Create Resource Group in Azure portal with a Windows 10 Virutal Machine (VM)
 
-2 - Enable Internet Information Services (IIS) with CGI
+- Step 2 - Enable Internet Information Services (IIS) with CGI
 
-3 - Install PHP, Rewrite Module, PHP 7.3.8, and VC Redistributal
+- Step 3 - Install PHP, Rewrite Module, PHP 7.3.8, and VC Redistributal
 
-4 - Install MySQL (Setup User name and Password)
+- Step 4 - Install MySQL (Setup User name and Password)
 
-5 - Configure permissions and Install osTicket
+- Step 5 - Configure permissions and Install osTicket
 
-7- Install HeidiSQL
+- Step 7- Install HeidiSQL
 
-8- Finish osTicket Install
+- Step 8- Finish osTicket Install
 
 <h2>Installation Steps</h2>
 

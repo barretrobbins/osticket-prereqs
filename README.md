@@ -44,17 +44,14 @@ Inside that resource group I created a Windows 10 VM and named it "VM-osTicket".
 Next, enabled IIS with CGI performing the following steps: open the Control Panel, select run, click Programs, click "turn windows features on or off"; then find "Internet Information Services", select it and expand it, expand "World Wide Web Services", expand "Application Development Features", find CGI and enable it, then click "OK".
 <img src="https://i.imgur.com/h2ESx4C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
-
 <p>
-Install PHP Manager for IIS.
+First, install PHP Manager
 <img src="https://i.imgur.com/2YLUyK1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Next, install Rewrite Module
-<img src="https://i.imgur.com/sMQryjQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/yklMBP4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
   
-Then, install PHP 7.3.8
-  
+Then, install PHP 7.3.8  
 <img src="https://i.imgur.com/umYHJxg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 Finally, install VC Redistributal

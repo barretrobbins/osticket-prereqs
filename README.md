@@ -81,6 +81,49 @@ Finally, install C++ Reader Redisputable
 Next, install MySQL.  Once downloaded, click next, select standard configuration, click next, create a password then click next, and finally click execute. A database is now installed on the VM, which is used for osTicket.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/c7tJVeq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Install osTicket v1.15.8 and enable extensions.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/zJTDbdW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Install osTicket v1.15.8 and enable extensions.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/owrDGyb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Install Heidi SQL.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/4nvwKhZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+osTicket installed with no complications.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/Uy7quZ2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+osTicket installed with no complications.
+</p>
+<br />
+
   
   
   

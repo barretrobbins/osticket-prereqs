@@ -41,10 +41,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/YWUi4XM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 The first step was to create a new resource group and VM in Azure. I created a resource group named "osTicket".
 
+ 
 <img src="https://i.imgur.com/oY6Yx6Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Inside that resource group I created a Windows 10 VM and named it "VM-osTicket".
 </p>
 <br />
+
 
 2 - Enable Internet Information Services (IIS) with CGI
 <p>
@@ -53,20 +55,25 @@ Next, enabled IIS with CGI performing the following steps: open the Control Pane
 </p>
 <br />
 
+
 3 - Install PHP, Rewrite Module, PHP 7.3.8, and VC Redistributal
 <img src="https://i.imgur.com/5m28HN6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 First, install PHP Manager
 
+
 <img src="https://i.imgur.com/yklMBP4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 Next, install Rewrite Module  
  
+ 
 <img src="https://i.imgur.com/umYHJxg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Then, install PHP 7.3.8 
+
 
 <img src="https://i.imgur.com/NkKU8fA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Finally, install VC Redistributal
 </p>
 <br />
+
 
 4 - Install MySQL (Setup User name and Password)
 <p>

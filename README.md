@@ -111,7 +111,9 @@ Go to Windows C: drive -> inetpub -> wwwroot -> osTicket -> include, and then re
 <img src="https://i.imgur.com/NXjOkjz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Then, open osTicket in your web browser and begin the basic installation process.
+Then, open osTicket in your web browser and begin the basic installation process.  Fill out the informaiton on the page.
+
+System Settings: Helpdesk Name: First Name (Yours) followed by Help Desk, enter a default email; Admin User: enter first and last name, email address, enter any name for the username and then enter your password.  Before finishing the installation process for osTicket, the last step is to setup the database in HeidiSQL.
 </p>
 <br />
 
@@ -119,7 +121,7 @@ Then, open osTicket in your web browser and begin the basic installation process
 <img src="https://i.imgur.com/fpOivnO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, download and Install HeidiSQL.  Make sure the Launch HeidiSQL is checkmarked and click Finish.  Create a new database for connection and fill in the username and password; User: root and Password: Password1.
+Next, download and Install HeidiSQL.  Make sure the Launch HeidiSQL is check marked and click Finish.  Create a new database for connection and fill in the username and password; User: root and Password: Password1.
 </p>
 <br />
 

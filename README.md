@@ -82,40 +82,71 @@ Next, install MySQL.  Once downloaded, click next, select standard configuration
 </p>
 <br />
 
+5 - Install osTicket
 <p>
-<img src="https://i.imgur.com/zJTDbdW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5W0uyAV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install osTicket v1.15.8 and enable extensions.
+Install osticket v1.15.8
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Apj16hR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Copy the UPLOAD folder and paste it in the Windows C: drive - inetpub - wwwroot, then restart Internet Information Services Manager. IIS Manager can be found in the start menu.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/owrDGyb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OCkMydh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install Heidi SQL.
+Go to Windows C: drive - inetpub - wwwroot - osTicket - include and rename "ost-sampleconfig.php" to "ost-config.php".
 </p>
 <br />
 
-
 <p>
-<img src="https://i.imgur.com/4nvwKhZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NXjOkjz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-osTicket installed with no complications.
-</p>
-<br />
-
-
-<p>
-<img src="https://i.imgur.com/Uy7quZ2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-osTicket installed with no complications.
+Open osTicket in your web browser and begin the basic installation process.
 </p>
 <br />
 
-  
-  
-  
+<p>
+<img src="https://i.imgur.com/fpOivnO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download and Install HeidiSQL 
+Create a new session, root/Password1
+Connect to the session
+Create a database called “osTicket”
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/1M3rVcT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Finish the installation process.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Z4rIlOb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, delete: C:\inetpub\wwwroot\osTicket\setup
+Set Permissions to “Read” only, C:\inetpub\wwwroot\osTicket\include\ost-config.php
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/5trEXyf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Login to the osTicket Admin Panel
+</p>
+<br />

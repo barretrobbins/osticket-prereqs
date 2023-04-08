@@ -95,7 +95,7 @@ Install osticket v1.15.8
 <img src="https://i.imgur.com/Apj16hR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Copy the UPLOAD folder and paste it in the Windows C: drive - inetpub - wwwroot, then restart Internet Information Services Manager. IIS Manager can be found in the start menu.
+Copy upload folder and paste it in the Windows C: drive.  Go to inetpub -> wwwroot, and then restart Internet Information Services Manager. IIS Manager can be found in the start menu.
 </p>
 <br />
 
@@ -103,7 +103,7 @@ Copy the UPLOAD folder and paste it in the Windows C: drive - inetpub - wwwroot,
 <img src="https://i.imgur.com/OCkMydh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to Windows C: drive - inetpub - wwwroot - osTicket - include and rename "ost-sampleconfig.php" to "ost-config.php".
+Go to Windows C: drive -> inetpub -> wwwroot -> osTicket -> include, and then rename "ost-sampleconfig.php" to "ost-config.php".
 </p>
 <br />
 
@@ -111,7 +111,7 @@ Go to Windows C: drive - inetpub - wwwroot - osTicket - include and rename "ost-
 <img src="https://i.imgur.com/NXjOkjz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open osTicket in your web browser and begin the basic installation process.
+Then, open osTicket in your web browser and begin the basic installation process.
 </p>
 <br />
 
@@ -119,10 +119,7 @@ Open osTicket in your web browser and begin the basic installation process.
 <img src="https://i.imgur.com/fpOivnO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download and Install HeidiSQL 
-Create a new session, root/Password1
-Connect to the session
-Create a database called “osTicket”
+Next, download and Install HeidiSQL.  Make sure the Launch HeidiSQL is checkmarked and click Finish.  Create a new database for connection and fill in the username and password; User: root and Password: Password1.
 </p>
 <br />
 
